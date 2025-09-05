@@ -15,5 +15,5 @@
 
 ## 📂 Installation
 ```bash
-git clone https://github.com/your-username/XERTHINIUM.git
+git clone https://github.com/Elxrth/Xerthinium-Experimental-GodMod/edit/main/README.md
 cd XERTHINIUM
