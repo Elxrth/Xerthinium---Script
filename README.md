@@ -1,15 +1,15 @@
 # 🌌 XERTHINIUM
 
-> 🟣 An experimental **network / local injection** framework for testing and learning data manipulation in sandbox environments.  
-> ⚡ Built purely for **educational and demonstrative** purposes.
+> 🟣 An experimental **network / local injection** framework for sandbox environments.  
+> ⚡ Built for **educational and demonstrative purposes only**.
 
 ---
 
 ## ✨ Features
-- 🔗 **Network injection** (simulated on local server only).
-- 💻 **Local injection** for solo experiments.
-- 🛠️ Customizable modes to observe impact in test environments.
-- 🎭 A "god mode" concept for **trolling your own projects** (without harming others).
+- 🔗 **Network injection** (simulated on local or private servers).  
+- 💻 **Local injection** for solo experiments.  
+- 🛠️ Customizable modes to observe impact in test environments.  
+- 🎭 A "god mode" concept to experiment with **controlled environments**.  
 
 ---
 
