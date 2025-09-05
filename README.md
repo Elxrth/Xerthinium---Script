@@ -12,6 +12,7 @@
 - 🎭 A "god mode" concept to experiment with **controlled environments**.  
 
 ---
+![Status](https://img.shields.io/badge/status-experimental-purple)
 
 ## 📂 Installation
 ```bash
