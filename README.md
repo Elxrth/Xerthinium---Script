@@ -10,10 +10,8 @@
 - 💻 **Local injection** for experiments.  
 - 🛠️ Customizable modes to observe impact in test environments.  
 - 🎭 A "god mode" concept to experiment with **controlled environments**.  
-
+![Safe%20Use](https://img.shields.io/badge/use-sandbox%20only-red)
 ---
-![Status](https://img.shields.io/badge/status-experimental-purple)
-
 ## 📂 Installation
 ```bash
 git clone https://github.com/Elxrth/Xerthinium-Experimental-GodMod/edit/main/README.md
