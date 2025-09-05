@@ -7,7 +7,7 @@
 
 ## ✨ Features
 - 🔗 **Network injection** (simulated on local or private servers).  
-- 💻 **Local injection** for solo experiments.  
+- 💻 **Local injection** for experiments.  
 - 🛠️ Customizable modes to observe impact in test environments.  
 - 🎭 A "god mode" concept to experiment with **controlled environments**.  
 
